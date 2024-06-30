@@ -56,7 +56,7 @@ font-size: 1.2rem;
 .task li{
     flex: 10;
     margin-right: 10px;
-    text-align: left;
+    text-align: center;
     align-self: center;
     list-style: none;
     font-size: 1.2rem;
